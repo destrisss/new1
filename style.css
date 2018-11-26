@@ -1,0 +1,320 @@
+body
+{
+
+  margin: 0;
+  background-image: url(img/concrete_seamless.png);
+  
+
+}
+
+.container
+{
+  
+  margin-left: auto;
+  marin-right: auto;
+}
+
+
+.img
+{
+	position: relative;
+	
+	
+	
+	
+}
+
+.img img
+{
+	width: 100%;
+	
+}
+
+
+
+.logo
+{
+  position: absolute;	
+  font-size: 24px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  color: #303030;
+  top: 10%;
+  left: 33%;
+  font-family: 'Oxygen', sans-serif;
+  
+}
+
+
+.minlog
+{
+	position: absolute;
+	top: 78%;
+	left: 22%;
+	color: gray;
+	font-size: 12px;
+}
+
+.menu
+{
+	position: absolute;
+	top: 54%;
+	left: 15%;
+	background-color: #0d0d0d;
+	padding: 27px;
+	border-radius: 50px;
+	font-size: 14px;
+	font-family: 'Cabin Condensed', sans-serif;
+	font-weight: 400;
+	letter-spacing: 2px;
+}
+
+.menu a
+{
+	
+	text-decoration: none;
+	color: gray;
+	margin: 60px;
+	
+}
+
+.menu a:hover
+{
+	color: white;
+	
+}
+
+.content
+{
+	height: 1920px;
+	margin: 75px;
+	
+	
+	
+}
+
+.content img
+{
+	border-radius: 25px;
+	
+	
+	
+}
+
+.content h1
+{
+	font-family: 'Cabin Condensed', sans-serif;
+	font-weight: 700;
+}
+
+
+
+.content button 
+{
+	background-color: #303030;
+	border-radius: 25px;
+	color: white;
+	padding: 18px;
+	display: inline-block;
+	text-decoration: none;
+	border: none;
+	position: absolute;
+	top: 134%;
+	left: 5%;
+	font-size: 16px;
+	transition: transform 0.4s ease-in-out;
+	
+}
+
+.content button1
+{
+	background-color: #303030;
+	border-radius: 25px;
+	color: white;
+	padding: 18px;
+	display: inline-block;
+	text-decoration: none;
+	border: none;
+	position: absolute;
+	top: 134%;
+	left: 33%;
+	font-size: 16px;
+	transition: transform 0.4s ease-in-out;
+	
+}
+
+.content button3
+{
+	background-color: #303030;
+	border-radius: 25px;
+	color: white;
+	padding: 18px;
+	display: inline-block;
+	text-decoration: none;
+	border: none;
+	position: absolute;
+	top: 134%;
+	left: 61%;
+	font-size: 16px;
+	transition: transform 0.4s ease-in-out;
+}
+
+.content button:hover
+{
+	cursor: pointer;
+	background-color: black;
+	transform: scale(0.95);
+}
+
+.content button1:hover
+{
+	cursor: pointer;
+	background-color: black;
+	transform: scale(0.95);
+}
+
+.content button3:hover
+{
+	cursor: pointer;
+	background-color: black;
+	transform: scale(0.95);
+}
+
+
+.content a
+{
+	text-decoration: none;
+	color: white;
+}
+
+.zestawienie
+{
+	margin-top: 15px;
+	font-family: 'Cabin Condensed', sans-serif;
+	font-size: 15px;
+	letter-spacing: 1px;
+	float: left;
+	padding: 15px 10px;
+	
+	
+	
+}
+
+.zestawienie2
+{
+	margin-top: 15px;
+	font-family: 'Cabin Condensed', sans-serif;
+	font-size: 15px;
+	letter-spacing: 1px;
+	float: left;
+	padding: 15px 10px;
+	margin-left: 20px;
+}
+
+.zestawienie3
+{
+	margin-top: 15px;
+	font-family: 'Cabin Condensed', sans-serif;
+	font-size: 15px;
+	letter-spacing: 1px;
+	float: left;
+	padding: 15px 10px;
+	margin-left: 20px;
+}
+
+
+
+
+
+.footer
+{
+	background-color: #0d0d0d;
+	color: white;
+	padding: 50px;
+	text-align: center;
+	font-family: 'Cabin Condensed', sans-serif;
+	font-size: 18px;
+	
+}
+
+
+.imghover
+{
+	transition: transform 0.4s ease-in-out;
+}
+
+.imghover:hover
+{
+	transform: scale(0.9);
+}
+
+.p1
+{
+	
+	font-family: 'Cabin Condensed', sans-serif;
+	font-weight: 700;
+	position: relative;
+	left: 50px;
+}
+
+.p1 h1
+{
+	position: relative;
+	left: 15px;
+}
+
+.p1 p
+{
+	max-width: 380px;
+	position: relative;
+	top: -380px;
+	left: 320px;
+	text-align: justify;
+	font-weight: 400;
+	
+}
+
+.dziela
+{
+	position: relative;
+	left: 800px;
+	top: -770px;
+}
+
+.dziela p
+{
+	position: relative;
+	top: 50px;
+	left: 90px;
+	font-weight: 700;
+	text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
